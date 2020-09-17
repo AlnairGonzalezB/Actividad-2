@@ -1,4 +1,13 @@
 p {
     text-decoration: underline;
     font-style: oblique;
+    
+}
+img {
+    width: 100px;
+    border: solid 1px black;
+}
+body {
+    background-image: url(logofing.png);
+    background-repeat: no-repeat;
 }
