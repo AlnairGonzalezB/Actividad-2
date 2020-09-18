@@ -8,6 +8,8 @@ img {
     border: solid 1px black;
 }
 body {
-    background-image: url(logofing.png);
+    transform: scale(2.1); transform-origin: 0 0; 
+    background-image: url(fondohtml.png);
+    background-size: cover;
     background-repeat: no-repeat;
 }
